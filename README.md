@@ -1,2 +1,2 @@
 # Codeforces Solution
-<p>Here I am sharing codeforces problems solutions.</p>
+<p>Here I am sharing some Codeforces problem solutions.</p>
